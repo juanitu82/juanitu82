@@ -1,15 +1,17 @@
 
-![Hey there, I'm Jony Dev. No, not the actor. I'm a web developer. Blockchain enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![saludo](https://user-images.githubusercontent.com/76759029/135774177-8836970e-f4ec-422f-a466-d8f350ffad81.gif)
 
-# Bonjour ! 🥖
 
-Hi i'm Juan Iturraspe, full-stack developer from Buenos Aires, Argentina
-I’m a Full-Stack developer oriented towards a back-end profile, focusing on scalability and good practices. I manage the PERN stack with the following technologies: HTML || CSS || SASS || Bootstrap || || UI Material Javascript || React || Redux || NodeJs || Express || Sequelize || PostgreSQL.
-I’m passionate about technology in general and specially Blockchain and fintech, as well as tourism and history. I stand out for being a team-work person, eager to continuously learn new things and who perseveres in the projects he proposes.
-I want to start and develop my self in this industry in which I believe and that I am passionate about, contributing to society from where I can.
-If you want to know more about me, please contact me: mail: jmiturraspe@gmail.com, telegram: https://t.me/juanitu whatsapp: https://wa.link/v3egnj Phone: +54 911 40670409
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+<p> Hi i'm Juan Iturraspe, full-stack developer from Buenos Aires, Argentina</p>
+<ul>
+  <li> Oriented towards a back-end profile, focusing on scalability and good practices.</li>
+  <li>I manage the PERN stack</li>
+  <li>I’m passionate about technology in general and specially Blockchain</li>
+  <li>I stand out for being a team-work person, eager to continuously learn new things and who perseveres in the projects he proposes.</li>
+  <li> Want to develop myself in the solidity language </li>
+  <li> Always ready for helping others and colaborating in open source projects</li>
+ </ul>
+  
 
 ## 🛠  Technologies and tools
 
@@ -29,8 +31,7 @@ If you want to know more about me, please contact me: mail: jmiturraspe@gmail.co
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=material-ui&color=282C34&logo=material-ui&logoColor=DB7093" alt="material-ui logo" title="material-ui" height="25" />][tech_tools_anchor]
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]![bio](https://user-images.githubusercontent.com/76759029/135773984-a2e53f4a-2d7e-4782-aa12-6bd3f1e5daf0.gif)
-
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
