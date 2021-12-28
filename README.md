@@ -102,7 +102,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/juan-iturraspe-dev)
 &nbsp;
-[<img src="https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=FF0000" alt="Gmail logo" title="LinkedIn" height="25" />](mailto:jmiturraspe@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=FF0000" alt="Gmail logo" title="LinkedIn" height="25" />](mailto:jmitu.dev@gmail.com)
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
