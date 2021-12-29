@@ -92,10 +92,16 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/electron-282C34?logo=electron&logoColor=FFFFFF" alt="Electron logo" title="Electron" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=FFFFFF" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF" alt="Kubernetes logo" title="Kubernetes" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=FFFFFF" alt="Jenkins logo" title="Jenkins" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 📄 My resume
 
-[<img src="https://img.shields.io/badge/download-282C34?logo=download&logoColor=0077B5" alt="Download logo" title="Here" height="25" />](https://drive.google.com/file/d/1nq437gMDIrT55gr6XCaJBS4ezV82Nsz5/view?usp=sharing)
+[<img src="https://img.shields.io/badge/download-282C34?logo=download&logoColor=0077B5" alt="Download logo" title="Here" height="25" />](https://drive.google.com/file/d/1mCoTnT7xEyGDThXmjEgNi7jZezWJGsW6/view?usp=sharing)
 
 ## 🔍  Where to find me
 
