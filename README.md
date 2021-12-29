@@ -80,18 +80,17 @@
 
 [<img src="https://img.shields.io/badge/solidity-282C34?logo=solidity&logoColor=02569B" alt="solidity logo" title="Solidity" height="25" />][learning_next_anchor]
 &nbsp;
+
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=FFFFFF" alt="Nestjs logo" title="Nestjs" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/pwa-282C34?logo=pwa&logoColor=FFFFFF" alt="PWA logo" title="Pwa" height="25" />][learning_next_anchor]
+
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/electron-282C34?logo=electron&logoColor=FFFFFF" alt="Electron logo" title="Electron" height="25" />][learning_next_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=FFFFFF" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF" alt="Kubernetes logo" title="Kubernetes" height="25" />][learning_next_anchor]
