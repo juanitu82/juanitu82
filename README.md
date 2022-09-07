@@ -100,7 +100,7 @@
 
 ## 📄 My resume
 
-[<img src="https://img.shields.io/badge/download-282C34?logo=download&logoColor=0077B5" alt="Download logo" title="Here" height="25" />](https://drive.google.com/file/d/1mCoTnT7xEyGDThXmjEgNi7jZezWJGsW6/view?usp=sharing)
+[<img src="https://img.shields.io/badge/download-282C34?logo=download&logoColor=0077B5" alt="Download logo" title="Here" height="25" />]https://drive.google.com/file/d/1C-ELBZF7O5oBoTUBbFBJDnBvZiBhkGw9/view?usp=sharing)
 
 ## 🔍  Where to find me
 
